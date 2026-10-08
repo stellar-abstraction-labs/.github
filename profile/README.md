@@ -1,26 +1,34 @@
-<div align="center">
-
 # Stellar Abstraction Labs
 
-_Social login for Stellar wallets_
+**Social login for Stellar wallets** — built on **Stellar**.
 
-[![stellar-account-abstraction-sdk](https://img.shields.io/badge/stellar-account-abstraction-sdk-f59e0b?style=for-the-badge)](https://github.com/stellar-abstraction-labs/stellar-account-abstraction-sdk)
+**Contents**
 
-</div>
+- [What it is](#what-it-is)
+- [Why Stellar](#why-stellar)
+- [Capabilities](#capabilities)
+- [Repository](#repository)
 
-## What we do
+## What it is
 
 Create a Stellar wallet with Google, Facebook, a phone number, or an existing crypto wallet.
 
-1. **Social authentication** — login with Google, Facebook, or phone number
-2. **Deterministic key derivation** — Stellar keypairs generated from the social auth method
-3. **Soroban account contracts** — on-chain social account management
-4. **Freighter integration** — bridge to existing crypto wallets when users are ready
+## Why Stellar
 
-## Build
+Stellar gives us fast, low-cost settlement and a public ledger; **Soroban** lets the rules live on-chain instead of in a database.
 
-`TypeScript` · `Soroban` · `Rust` · `Next.js` · `Freighter`
+## Capabilities
+
+- **Social authentication** · login with Google, Facebook, or phone number
+- **Deterministic key derivation** · Stellar keypairs generated from the social auth method
+- **Soroban account contracts** · on-chain social account management
+- **Freighter integration** · bridge to existing crypto wallets when users are ready
+
+## Repository
+
+<https://github.com/stellar-abstraction-labs/stellar-account-abstraction-sdk>
 
 ---
+*`TypeScript` · `Soroban` · `Rust` · `Next.js` · `Freighter`* · `Stellar` · `Soroban`
 
-Start here: [stellar-abstraction-labs/stellar-account-abstraction-sdk](https://github.com/stellar-abstraction-labs/stellar-account-abstraction-sdk)
+· [Stellar](https://stellar.org) · [Soroban](https://soroban.stellar.org) · [Stellar Expert](https://stellar.expert)
